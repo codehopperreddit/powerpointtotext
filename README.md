@@ -2,7 +2,7 @@
 
 A simple, browser-based web application that converts PowerPoint (.pptx) presentations to plain text files.
 
-Visit [https://codehopperreddit.github.io/powerpointtotext/](https://codehopperreddit.github.io/fuzzymatcher/) to use the application immediately.
+Visit [https://codehopperreddit.github.io/powerpointtotext/](https://codehopperreddit.github.io/powerpointtotext/) to use the application immediately.
 
 ## Overview
 
